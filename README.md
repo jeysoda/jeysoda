@@ -1,7 +1,23 @@
 ## Hi there 👋
 
-👋 Hi, I’m @jeysoda
-👀 Data Scientist with proven experience in Business Intelligence and Data Engineering
-🌱 SQL, R, Python, Tableau, Power BI, Excel
-💞️ I’m looking for career opportunities on-site (Utah) or remote opportunities
-📫 I can be reached at jbersonjr@gmail.com
+- 👋 Hi, I’m @jeysoda
+- 👀 Data Scientist with proven experience in Business Intelligence and Data Engineering
+- 🌱 SQL, R, Python, Tableau, Power BI, Excel
+- 💞️ I’m looking for career opportunities on-site (Utah) or remote opportunities
+- 📫 I can be reached at jbersonjr@gmail.com
+
+
+<!--
+**jeysoda/jeysoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
